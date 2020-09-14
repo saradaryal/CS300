@@ -1,7 +1,5 @@
 /**
- * This class allows button base classes to only have one method, mouseDown. This 
- * is for simplification purposes. 
- * @author Thomas Grutsch and Robert Fitzpatrick
+ * @author Sarrad Aryal
  *
  */
 public class Button implements DormGUI {

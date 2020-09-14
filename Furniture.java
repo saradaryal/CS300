@@ -3,17 +3,17 @@
 //
 // Title:           (Cheese Eater)
 // Files:           (Main)
-// Course:          (CS300, spring 2018)
+// Course:          (CS300, Summer 2018)
 //
-// Author:          (Thomas Grutsch and Robert Fitzpatrick)
-// Email:           (tgrutsch@wisc.edu)
-// Lecturer's Name: (Gary Dahl)
+// Author:          (Sarad Aryal)
+// Email:           (sarad@cs.wisc.edu)
+// Lecturer's Name: 
 //
 //////////////////// PAIR PROGRAMMERS COMPLETE THIS SECTION ///////////////////
 //
-// Partner Name:    (Robbie Fitzpatrick)
-// Partner Email:   (rfitzpatric2@wisc.edu)
-// Lecturer's Name: (Gary Dahl)
+// Partner Name:    (none)
+// Partner Email:   (none)
+// Lecturer's Name: ()
 // 
 // VERIFY THE FOLLOWING BY PLACING AN X NEXT TO EACH TRUE STATEMENT:
 //   ___ Write-up states that pair programming is allowed for this assignment.
@@ -34,7 +34,7 @@
 /////////////////////////////// 80 COLUMNS WIDE ///////////////////////////////
 /**
  * This class is used for all furniture implementation. 
- * @author Thomas Grutsch and Robert Fitzpatrick
+ * @author Sarad Aryal
  *
  */
 

@@ -1,5 +1,5 @@
 /**
- * @author Sarrad Aryal
+ * @author Sarad Aryal
  *
  */
 public class Button implements DormGUI {

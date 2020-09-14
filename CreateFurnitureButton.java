@@ -1,6 +1,6 @@
 /**
  * Allows for all buttons that create furniture to run from one class. 
- * @author Thomas Grutsch and Robert Fitzpatrick
+ * @author Sarad Aryal
  *
  */
 public class CreateFurnitureButton extends Button {

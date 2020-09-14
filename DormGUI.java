@@ -2,7 +2,7 @@
  * This interface is used to cut down on redundant code in the class main. 
  * 
  * 
- * @author Thomas Grutsch
+ * @author Sarad Aryal
  *
  */
 public interface DormGUI {

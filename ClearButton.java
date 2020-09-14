@@ -1,6 +1,6 @@
 /**
  * Clears furniture from the room when pressed. 
- * @author Thomas Grutsch and Robert Fitzpatrick
+ * @author Sarad Aryal
  *
  */
 public class ClearButton extends Button {

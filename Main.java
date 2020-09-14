@@ -1,43 +1,7 @@
 import java.util.ArrayList;
-
-//////////////////// ALL ASSIGNMENTS INCLUDE THIS SECTION /////////////////////
-//
-// Title:           (Cheese Eater)
-// Files:           (Main, Furniture, DormGUI, CreateFurnitureBottun, Button
-//					ClearButton, SaveButton, LoadButton)
-// Course:          (CS300, spring 2018)
-//
-// Author:          (Thomas Grutsch and Robert Fitzpatrick)
-// Email:           (tgrutsch@wisc.edu)
-// Lecturer's Name: (Gary Dahl)
-//
-//////////////////// PAIR PROGRAMMERS COMPLETE THIS SECTION ///////////////////
-//
-// Partner Name:    (Robbie Fitzpatrick)
-// Partner Email:   (rfitzpatric2@wisc.edu)
-// Lecturer's Name: (Gary Dahl)
-// 
-// VERIFY THE FOLLOWING BY PLACING AN X NEXT TO EACH TRUE STATEMENT:
-//   ___ Write-up states that pair programming is allowed for this assignment.
-//   ___ We have both read and understand the course Pair Programming Policy.
-//   ___ We have registered our team prior to the team registration deadline.
-//
-///////////////////////////// CREDIT OUTSIDE HELP /////////////////////////////
-//
-// Students who get help from sources other than their partner must fully 
-// acknowledge and credit those sources of help here.  Instructors and TAs do 
-// not need to be credited here, but tutors, friends, relatives, room mates 
-// strangers, etc do.  If you received no outside help from either type of 
-// source, then please explicitly indicate NONE.
-//
-// Persons:         (None)
-// Online Sources:  (None)
-//
-/////////////////////////////// 80 COLUMNS WIDE ///////////////////////////////
-
 /**
  * This runs the dorm designer program. 
- * @author Thomas Grutsch and Robert Fitzpatrick
+ * @author Sarad Aryal
  *
  */
 
